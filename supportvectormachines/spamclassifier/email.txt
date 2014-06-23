@@ -1,0 +1,26 @@
+Branch: refs/heads/zaya
+ Home:   https://github.com/zayalabs/AssessmentApp
+ Commit: 8f8cf9407b3fc4e08508745af214e63a5b935c82
+     https://github.com/zayalabs/AssessmentApp/commit/8f8cf9407b3fc4e08508745af214e63a5b935c82
+ Author: rahuldsouza <rahuld@zaya.org>
+ Date:   2014-06-09 (Mon, 09 Jun 2014)
+
+ Changed paths:
+   M apps/content/models.py
+   M static/css/adminmain.css
+   M static/css/assessmain.css
+   M static/css/less/lesson-plan.less
+   M static/css/less/questions.less
+   A static/images/icons/bronze_star.png
+   A static/images/icons/gold_star.png
+   A static/images/icons/silver_star.png
+   M static/tpl/apps/curate/lesson-plan/main.html
+   M static/tpl/course/dashboard.html
+   M static/tpl/practice/meta.html
+   M static/tpl/practice/questions.html
+   M static/zaya/angular-directives.js
+   M static/zaya/angular-practice.js
+
+ Log Message:
+ -----------
+ Practice styling changes

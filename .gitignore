@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+
+local_settings.py
+-H
+
+supportvectormachines/spamclassifier/newdata/*
+supportvectormachines/spamclassifier/spamTrain.mat
+
+node_modules/*
+Gruntfile.js
+package.json
